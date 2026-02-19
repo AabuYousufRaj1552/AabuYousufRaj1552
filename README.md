@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**AabuYousufRaj1552/AabuYousufRaj1552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<div align="right">
-  <a href="https://aabuyousufraj1552.github.io">🌐 Personal Website</a>
-</div>
+## Hello there 👋
 
 # Hello, I'm Aabu Yousuf Raj! 👋
 
